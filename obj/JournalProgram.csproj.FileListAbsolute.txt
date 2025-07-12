@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\JournalProgram\bin\Debug\net9.0\JournalProgram.exe
+C:\Users\User\OneDrive\Desktop\JournalProgram\bin\Debug\net9.0\JournalProgram.deps.json
+C:\Users\User\OneDrive\Desktop\JournalProgram\bin\Debug\net9.0\JournalProgram.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\JournalProgram\bin\Debug\net9.0\JournalProgram.dll
+C:\Users\User\OneDrive\Desktop\JournalProgram\bin\Debug\net9.0\JournalProgram.pdb
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.dll
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\refint\JournalProgram.dll
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.pdb
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\JournalProgram.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\JournalProgram\obj\Debug\net9.0\ref\JournalProgram.dll
